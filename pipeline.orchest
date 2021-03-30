@@ -1,0 +1,145 @@
+{
+    "name": "Pipeline",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "18a9fa45-5e5b-4822-95e0-43ba537c7baf": {
+            "environment": "ea858517-17b2-4ad8-bad2-1764d69f4b6d",
+            "file_path": "ex_para_iter.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    313.5,
+                    55.5
+                ]
+            },
+            "parameters": {},
+            "title": "Parameter iteration",
+            "uuid": "18a9fa45-5e5b-4822-95e0-43ba537c7baf"
+        },
+        "36b02fcb-d072-4620-a1fa-1f0bcfeb6730": {
+            "environment": "ea858517-17b2-4ad8-bad2-1764d69f4b6d",
+            "file_path": "ex_remo_objs.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    549.5,
+                    55.5
+                ]
+            },
+            "parameters": {},
+            "title": "Remote objects",
+            "uuid": "36b02fcb-d072-4620-a1fa-1f0bcfeb6730"
+        },
+        "3c11002a-00e3-461b-9cd0-a009ea08535d": {
+            "environment": "ea858517-17b2-4ad8-bad2-1764d69f4b6d",
+            "file_path": "ex_remo_func.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    67.5,
+                    184.5
+                ]
+            },
+            "parameters": {},
+            "title": "Remo func",
+            "uuid": "3c11002a-00e3-461b-9cd0-a009ea08535d"
+        },
+        "655120c6-72ab-4b8f-ae0d-015bfec24033": {
+            "environment": "ea858517-17b2-4ad8-bad2-1764d69f4b6d",
+            "file_path": "ex_remo_meth.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    314.5,
+                    316.5
+                ]
+            },
+            "parameters": {},
+            "title": "Remote methods",
+            "uuid": "655120c6-72ab-4b8f-ae0d-015bfec24033"
+        },
+        "8f4ddb75-4353-41a3-8115-56d82724698f": {
+            "environment": "ea858517-17b2-4ad8-bad2-1764d69f4b6d",
+            "file_path": "ex_mult_pool.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    314.5,
+                    185.5
+                ]
+            },
+            "parameters": {},
+            "title": "Multiple pool",
+            "uuid": "8f4ddb75-4353-41a3-8115-56d82724698f"
+        },
+        "a4eb5500-f7d0-4472-ac62-10cbfb25679c": {
+            "environment": "ea858517-17b2-4ad8-bad2-1764d69f4b6d",
+            "file_path": "ex_job_lib.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    66.5,
+                    55.5
+                ]
+            },
+            "parameters": {},
+            "title": "Ex job lib",
+            "uuid": "a4eb5500-f7d0-4472-ac62-10cbfb25679c"
+        },
+        "d99f5dd8-4b34-41e2-b44d-230892f6f4be": {
+            "environment": "ea858517-17b2-4ad8-bad2-1764d69f4b6d",
+            "file_path": "pi.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    68.5,
+                    315.5
+                ]
+            },
+            "parameters": {},
+            "title": "Pi",
+            "uuid": "d99f5dd8-4b34-41e2-b44d-230892f6f4be"
+        }
+    },
+    "uuid": "8e416876-8a03-47ca-81c6-c647aafd4a32",
+    "version": "1.0.0"
+}
