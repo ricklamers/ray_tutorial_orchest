@@ -3,7 +3,7 @@ This repo is a fork of https://github.com/DerwenAI/ray_tutorial
 
 It adds an Orchest pipeline configured to run the included notebooks.
 
-!(Orchest Pipeline)[https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/ray_tutorial_orchest/blob/main/pipeline.orchest]
+![Orchest Pipeline](https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/ray_tutorial_orchest/blob/main/pipeline.orchest)
 
 # A Guided Tour of Ray Core
 
