@@ -1,3 +1,10 @@
+### Note
+This repo is a fork of https://github.com/DerwenAI/ray_tutorial
+
+It adds an Orchest pipeline configured to run the included notebooks.
+
+!(Orchest Pipeline)[https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/ray_tutorial_orchest/blob/main/pipeline.orchest]
+
 # A Guided Tour of Ray Core
 
 An introductory tutorial about leveraging [Ray](https://docs.ray.io/en/master/)
@@ -9,6 +16,8 @@ Note: these examples have been tested using Python 3.7+ on:
   - macOS 10.13
 
 See the accompanying `slides.pdf` file for presentation slide deck.
+
+
 
 
 ## Getting Started
